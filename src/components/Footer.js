@@ -8,7 +8,11 @@ const Footer = () => {
           &copy; 2018 EmoARji
           <div className="right">
             Made with <i className="fa fa-heart" /> by{" "}
-            <a target="_blank" href="www.shecodez.com">
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="http://www.shecodez.com"
+            >
               shecodez
             </a>{" "}
             | NJN

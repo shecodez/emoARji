@@ -16,14 +16,14 @@ const Header = () => {
 
           <ul className="left">
             <li>
-              <a href="#">
+              <a href="#!">
                 <i className="fa fa-bars material-icons" />
               </a>
             </li>
           </ul>
           <ul className="right">
             <li>
-              <a href="#">
+              <a href="#!">
                 <i className="fa fa-lock material-icons" />
               </a>
             </li>
