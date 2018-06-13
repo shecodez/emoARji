@@ -8,7 +8,7 @@ import App from "./App";
 
 import registerServiceWorker from "./utils/registerServiceWorker";
 
-require("dotenv").config();
+//require("dotenv").config();
 
 ReactDOM.render(<App />, document.getElementById("root"));
 registerServiceWorker();
